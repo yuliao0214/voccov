@@ -4150,7 +4150,7 @@ campsite	campsites
 campus	campuses
 campy	campier campiest
 camshaft	camshafts
-can	canned canning cans canst
+can	canned canning cans canst cannot
 canal	canals
 canalization	canalisation
 canalize	canalise canalised canalises canalising canalized canalizes canalizing
@@ -4199,7 +4199,6 @@ cannibalize	cannibalise cannibalised cannibalises cannibalising cannibalized can
 cannon	cannoned cannoning cannons
 cannonade	cannonaded cannonades cannonading
 cannonball	cannonballs
-cannot
 canny	cannier canniest cannily canniness
 canoe	canoed canoeing canoes
 canoeist	canoeists
@@ -8822,7 +8821,6 @@ dogsled	dogsleds
 dogtrot	dogtrots dogtrotted dogtrotting
 dogwood	dogwoods
 doily	doilies
-doing	doings
 do-it-yourself
 doldrums
 dole	doled doleful dolefully dolefulness doles doling
@@ -9624,7 +9622,6 @@ elucidation	elucidations
 elude	eluded eludes eluding
 elusive	elusively elusiveness
 elver	elvers
-em	ems
 emaciate	emaciated emaciates emaciating
 emaciation
 email	emailed emailing emails
@@ -12415,7 +12412,7 @@ gesticulation	gesticulations
 gestural
 gesture	gestured gestures gesturing
 gesundheit
-get	gets getting got gotten
+get	gets getting got gotten gotta
 getaway	getaways
 getout	getouts
 get-together	get-together
@@ -12615,7 +12612,7 @@ gnocchi
 gnome	gnomes gnomish
 gnomic
 gnu	gnus
-go	goes going gone went
+go	goes going gone went gonna
 goad	goaded goading goads
 go-ahead	go-aheads
 goal	goalless goals
@@ -12690,7 +12687,6 @@ gondola	gondolas
 gondolier	gondoliers
 goner	goners
 gong	gonged gonging gongs
-gonna
 gonorrhea	gonorrhoea
 gonorrheal	gonorrhoeal
 gonzo
@@ -12743,7 +12739,6 @@ gossipy
 gotcha
 goth	goths
 gothic
-gotta
 gouache	gouaches
 gouge	gouged gouges gouging
 gouger	gougers
@@ -33330,9 +33325,8 @@ wangle	wangled wangles wangling
 wangler	wanglers
 wank	wanked wanking wanks
 wanker	wankers
-wanna
 wannabe	wannabee wannabees wannabes
-want	wanted wanting wants
+want	wanted wanting wants wanna
 wanton	wantoned wantoning wantonly wantonness wantons
 wapiti	wapitis
 war	warlike warred warring wars

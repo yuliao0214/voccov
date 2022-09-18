@@ -200,6 +200,7 @@ if __name__ == '__main__':
     report = []
     max_width = max(len(str(v)) for v in book.words.keys())
     report.append('{:<{}} {:<5} {:<5}'.format("WORD", max_width, "COCA", "OCC"))
+    report.append('{:<{}} {:<5} {:<5}'.format("----", max_width, "----", "---"))
 
     for word in sorted(book.words, key=lambda x: book.words[x][sort], reverse=args.reverse):
         report.append('{:<{}} {:<5} {:<5}'.format(word, max_width, book.words[word][0], book.words[word][1]))
@@ -208,8 +209,6 @@ if __name__ == '__main__':
      with open(args.output_file, 'w') as output:
          output.write(LINE_SEP.join(report))
          output.write(LINE_SEP)
-    else:
-        print(LINE_SEP.join(report))
 
     if args.plot:
         plt.title(os.path.basename(args.input_file) + " stat data")
