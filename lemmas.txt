@@ -1489,7 +1489,6 @@ arctic	arctics
 ardent	ardently
 ardor	ardors ardour ardours
 arduous	arduously arduousness
-are	ares
 area	areas
 areal
 arena	arenas
