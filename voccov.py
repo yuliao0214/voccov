@@ -192,7 +192,7 @@ if __name__ == '__main__':
     book = Book(args.input_file)
 
     print("Total words:", book.total)
-    for i in list(range(4, 20))+list(range(20, 45, 5)):
+    for i in list(range(4, 20)) + list(range(20, 45, 5)) + list(range(50, 70, 10)):
         tmpnum = 1000 * i
         tmpcov = book.coverage(tmpnum)
         num.append(tmpnum)
